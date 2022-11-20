@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/faster_one</item>
+        <item>@font/nunito</item>
+        <item>@font/nunito_black</item>
+        <item>@font/nunito_extralight</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/roboto_mono_bold</item>
+    </array>
+</resources>
